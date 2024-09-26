@@ -3,3 +3,5 @@
 .jupyter/
 .DS_Store/
 .DS_Store
+.ipynb.layout
+
